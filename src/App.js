@@ -7,7 +7,7 @@ function App() {
   return (
    <div>
     <Router>
-      <Routes>
+      <Routes basename="/">
         <Route exact path="/" element={<MainPage/>}></Route>
       </Routes>
     </Router>
