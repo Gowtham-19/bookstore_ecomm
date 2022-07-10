@@ -2,7 +2,7 @@
   "homepage": "https://gowtham-19.github.io/bookstore_ecomm",
   "name": "ecomm_front_end",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^6.1.1",
     "@fortawesome/free-brands-svg-icons": "^6.1.1",
