@@ -1,0 +1,28 @@
+.intro-text{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 25px;
+    font-weight: 500px;
+    background-color:lightgray ;
+    border: 2px solid white;
+    border-radius: 150px;
+    height: 500px;
+    padding-bottom: 0px;
+}
+
+.image-responsive{
+    width: 700px;
+}
+@media screen and (max-width:550px){
+    .image-responsive{
+        width: 450px;
+    }
+    .intro-text{
+        font-size: 18px;
+        background-color:lightgray ;
+        border: 2px solid white;
+        border-radius: 40px;
+        height: 300px;
+    }
+}

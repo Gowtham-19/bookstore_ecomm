@@ -1,0 +1,22 @@
+.intoduction{
+    padding-top: 50px;
+    font-size: 25px;
+    font-weight: 500px;
+    background-color: purple;
+    color:white;
+    border:  10px solid white;
+    border-radius: 100px;
+    height: 180px;
+}
+
+@media screen and (max-width:550px){
+    .image-responsive{
+        width: 450px;
+    }
+    .intoduction{
+        font-size: 20px;
+        border: 2px solid white;
+        border-radius: 40px;
+        height: 250px;
+    }
+}
