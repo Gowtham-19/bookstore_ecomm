@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/bookstore_ecomm/static/css/main.38a9f9e9.css",
-    "main.js": "/bookstore_ecomm/static/js/main.b43ffb42.js",
+    "main.js": "/bookstore_ecomm/static/js/main.466df396.js",
     "static/js/787.c966d6f6.chunk.js": "/bookstore_ecomm/static/js/787.c966d6f6.chunk.js",
     "static/media/business_mobile.gif": "/bookstore_ecomm/static/media/business_mobile.c24df731180359f00e2e.gif",
     "static/media/conactus_page.gif": "/bookstore_ecomm/static/media/conactus_page.5635e3dbeb21e6e987c0.gif",
@@ -10,11 +10,11 @@
     "static/media/book_wall_proper.jpg": "/bookstore_ecomm/static/media/book_wall_proper.74d718f8590905cb1112.jpg",
     "index.html": "/bookstore_ecomm/index.html",
     "main.38a9f9e9.css.map": "/bookstore_ecomm/static/css/main.38a9f9e9.css.map",
-    "main.b43ffb42.js.map": "/bookstore_ecomm/static/js/main.b43ffb42.js.map",
+    "main.466df396.js.map": "/bookstore_ecomm/static/js/main.466df396.js.map",
     "787.c966d6f6.chunk.js.map": "/bookstore_ecomm/static/js/787.c966d6f6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.38a9f9e9.css",
-    "static/js/main.b43ffb42.js"
+    "static/js/main.466df396.js"
   ]
 }
