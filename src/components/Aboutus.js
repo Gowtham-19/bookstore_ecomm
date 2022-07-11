@@ -9,7 +9,7 @@ const Aboutus = () => {
         <p className='about_us_title'>About Us</p> 
    <Row  className="about_info">
         <p>findmybook.io is one of the most rapidly growing ecommerce books store.our main goal is 
-            to provide the best quality content for any kind of customers they can be a kid or adult or an professional who ever it might be<b>findmybook</b> always aims to provide the best possible results for them.now we have grown we are increasing our delivery services to the maximum number of places we could reach.
+            to provide the best quality content for any kind of customers they can be a kid or adult or an professional who ever it might be <b >findmybook</b> always aims to provide the best possible results for them.now we have grown we are increasing our delivery services to the maximum number of places we could reach.
         </p>
         <p>our moto is simple <b>Providing Quality Content to the Customer</b>.</p>
    </Row>
