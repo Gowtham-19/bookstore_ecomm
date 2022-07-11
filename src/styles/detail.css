@@ -20,3 +20,20 @@
         height: 250px;
     }
 }
+
+
+
+@media screen and (max-width:375px){
+    .image-responsive{
+        width: 450px;
+    }
+    .intoduction{
+        font-size: 20px;
+        border: 2px solid white;
+        border-radius: 40px;
+        height: 200px;
+        width: 390px;
+        padding-left: 25px;
+        padding-top: 25px;
+    }
+}

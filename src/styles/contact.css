@@ -1,4 +1,5 @@
 .contact{
+    padding-top: 15px;
     margin-top: 10%;
     align-items: center;
     justify-content: center;    
@@ -6,17 +7,32 @@
     background-color: black;
     color:white;
     border-radius: 50px;
+    padding-bottom: 50px;
     margin-bottom: 5px;
 }
 
 .contact_image{
     width: 700px;
+    padding-left: 0px;
 }
 
 @media screen and (max-width:550px){
     .contact_image{
         width: 420px;
         height: 420px;
+    }
+    .contact{
+        font-size: 20px;
+        margin-bottom: 50px;
+    }
+}
+
+
+@media screen and (max-width:450px){
+    .contact_image{
+        width: 390px;
+        height: 450px;
+        padding-left: 0px;
     }
     .contact{
         font-size: 20px;
